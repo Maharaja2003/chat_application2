@@ -1,0 +1,98 @@
+body{
+
+ background: linear-gradient(135deg, #6a11cb, #2575fc);
+	}
+
+
+.vh-100 {
+	min-height: 100vh;
+}
+
+.w-400 {
+	width: 400px;
+	background-color: aliceblue;
+}
+/* newly add */
+
+
+
+.form-container{
+	background-color: white;
+	opacity: 0.5rem;
+}
+
+
+
+.fs-xs {
+	font-size: 1rem;
+}
+.w-10 {
+	width: 10%;
+}
+a {
+	text-decoration: none;
+}
+.fs-big {
+	font-size: 5rem !important;
+}
+.online {
+	width: 10px;
+	height: 10px;
+	background: rgb(255, 0, 0);
+	border-radius: 50%;
+}
+.w-15 {
+	width: 15%;
+}
+.fs-sm {
+	font-size: 1.4rem;
+	font-weight:bold;
+	
+}
+small {
+	color: #000000;
+	font-size: 0.7rem;
+	text-align: right;
+}
+.chat-box {
+	overflow-y: auto;
+	overflow-x: hidden;
+background: linear-gradient(45deg, #00f260, #0575e6);
+	max-height: 50vh;
+}
+.rtext {
+	width: 65%;
+	background: #f8f9fa;
+	color: #444;
+}
+
+.ltext {
+	width: 65%;
+	background: #3289c8;
+	color: #fff;
+}
+/* width */
+*::-webkit-scrollbar {
+  width: 9px;
+}
+
+/* Track */
+*::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+*::-webkit-scrollbar-thumb {
+  background: #aaa;
+}
+
+/* Handle on hover */
+*::-webkit-scrollbar-thumb:hover {
+  background: #3289c8;
+}
+
+textarea {
+	resize: none;
+}
+
+/*message_status*/
